@@ -6,7 +6,7 @@ I'm a Senior Software Engineer at [Capital Technology Group (CTG)](https://capit
 Currently, I’m on a technology modernization team at U.S. Citizenship and Immigration Services (USCIS) 
 focused on improving the digital products and services available to applicants and agency employees.
 
-I'm primarily a backend developer that enjoys work in Java and Python.
+I'm primarily a backend developer that enjoys working in Java and Python.
 
 You can learn more about my professional experience on my LinkedIn [profile](https://www.linkedin.com/in/amirboroumand/).
 
