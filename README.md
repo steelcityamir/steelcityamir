@@ -2,10 +2,10 @@
 
 I'm a Senior Software Engineer at [Capital Technology Group (CTG)](https://capitaltg.com).
 
+I value clean code, quality technical documentation, and making decisions based on data.
+
 Currently, I’m on a technology modernization team at U.S. Citizenship and Immigration Services (USCIS) 
 focused on improving the digital products and services available to applicants and agency employees.
-
-I value clean code, quality technical documentation, and making decisions based on data.
 
 Technologies I use on a regular basis:
 
