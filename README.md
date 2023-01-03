@@ -18,7 +18,7 @@ Technologies I use on a regular basis:
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg" alt="Amazon Web Services (AWS)" width="80"/>
 </span>
 
-You can learn more about my professional experience on my LinkedIn [profile](https://www.linkedin.com/in/amirboroumand/).
+You can learn more about my professional experience on my LinkedIn [profile](https://www.linkedin.com/in/hireamir).
 
 
 <!---
