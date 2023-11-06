@@ -1,6 +1,6 @@
 # 👋 &nbsp;**Hey there, I’m Amir.**
 
-I'm a Senior Software Engineer at [Capital Technology Group (CTG)](https://capitaltg.com).
+I'm a Principal Software Engineer at [Capital Technology Group (CTG)](https://capitaltg.com).
 
 I value clean code, quality technical documentation, and making decisions based on data. 
 
