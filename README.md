@@ -11,7 +11,7 @@ Technologies I use on a regular basis:
 
 <span>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" alt="Java" width="90"/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" alt="JavaScript" width="80"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" alt="TypeScript" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" alt="React" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg" alt="Postgres" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg" alt="Docker" width="80" />
