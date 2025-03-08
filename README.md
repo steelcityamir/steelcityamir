@@ -2,15 +2,16 @@
 
 I'm a Principal Software Engineer at [Capital Technology Group (CTG)](https://capitaltg.com).
 
-I value clean code, quality technical documentation, and making decisions based on data. 
-
 Currently, I’m on a technology modernization team at U.S. Citizenship and Immigration Services (USCIS) 
 focused on improving the digital products and services available to applicants and agency employees.
+
+My professional journey has given me the opportunity to solve problems with technology for companies large and small.
 
 Technologies I use on a regular basis:
 
 <span>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" alt="Java" width="90"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg" alt="Spring Boot" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" alt="TypeScript" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" alt="React" width="80"/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg" alt="Postgres" width="80"/>
